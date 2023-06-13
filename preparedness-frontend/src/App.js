@@ -7,7 +7,7 @@ const App = () => {
   const [name, setName] = useState("")
 
   const handleNameChange = (e) => {
-    setName(e.target.value);
+    setName(e.target.value)
   }
 
   const handleResetClick = () => {
