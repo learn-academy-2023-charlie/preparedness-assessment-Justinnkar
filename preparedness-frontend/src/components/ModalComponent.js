@@ -32,7 +32,7 @@ function ModalComponent({ name }) {
         </ModalFooter>
       </Modal>
     </div>
-  );
+  )
 }
 
 export default ModalComponent
